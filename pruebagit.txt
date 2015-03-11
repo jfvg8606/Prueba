@@ -1,0 +1,9 @@
+git config --global user.name 
+git config --global user.email
+
+Agregar una carpeta
+git init
+
+git add "Nombre del archivo"
+git add .
+git commit -m
